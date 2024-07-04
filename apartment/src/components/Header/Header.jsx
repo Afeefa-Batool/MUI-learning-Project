@@ -61,9 +61,7 @@ const Header = () => {
          <Button color="inherit">Login</Button>
 
          </Box>
-
-          
-          </Toolbar>
+ </Toolbar>
         </AppBar>
       </Box>
     </>
